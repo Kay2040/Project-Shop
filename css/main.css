@@ -57,7 +57,7 @@ body {
   transition: 0.3s;
 }
 .v1_24:hover {
-  color: #00CFE8;
+  color: darkblue;
 }
 
 .v1_25 {
@@ -87,7 +87,7 @@ body {
   text-align: center;
 }
 .v1_26:hover {
-  color: #00CFE8;
+  color: darkblue;
 }
 .v1_27 {
   width: 65px;
@@ -104,7 +104,7 @@ body {
   text-align: center;
 }
 .v1_27:hover {
-  color: #00CFE8;
+  color: darkblue;
 }
 .v1_28 {
   width: 63px;
@@ -121,7 +121,7 @@ body {
   text-align: center;
 }
 .v1_28:hover{
-  color: #00CFE8;
+  color: darkblue;
 }
 .v1_29 {
   display: flex;
@@ -215,7 +215,7 @@ body {
   opacity: 1;
   text-align: center;
 }.v1_36:hover{
-  color: black;
+  color: white;
 }
 .v1_38 {
   width: 275px;
@@ -231,11 +231,11 @@ body {
 }
 .v1_43 {
   width: 500px;
-  color: rgba(31,72,142,0.6700000166893005);
+  color: rgba(15, 3, 58, 0.67);
   position: absolute;
   top: 277px;
   left: 106px;
-  text-shadow: 0px 4px 0px rgba(0, 0, 0, 0.25);
+  text-shadow: 0px 4px 0px rgba(127, 4, 4, 0.25);
   font-family: Inter;
   font-weight: Bold;
   font-size: 48px;
