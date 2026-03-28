@@ -265,7 +265,7 @@ body {
   border-bottom-right-radius: 108px;
   border-radius: 50%;
   object-fit: cover;
-  overflow: hidden;
+  overflow: visible;
 }
 .v2_8 {
   width: 309px;
@@ -299,7 +299,7 @@ body {
   border-top-right-radius: 156px;
   border-bottom-left-radius: 156px;
   border-bottom-right-radius: 156px;
-  overflow: hidden;
+  overflow: visible;
 }
 .v2_11 {
   width: 315px;
@@ -316,7 +316,7 @@ body {
   border-top-right-radius: 181px;
   border-bottom-left-radius: 181px;
   border-bottom-right-radius: 181px;
-  overflow: hidden;
+  overflow: visible;
 }
 .v2_16 {
   width: 313px;
@@ -333,7 +333,7 @@ body {
   border-top-right-radius: 272px;
   border-bottom-left-radius: 272px;
   border-bottom-right-radius: 272px;
-  overflow: hidden;
+  overflow: visible;
 }
 .v2_17 {
   width: 513px;
@@ -359,6 +359,8 @@ body {
   position: absolute;
   bottom: -30px;
   left: 50%;
+  font-family: Inter;
+  font-weight: Bold;
   transform: translateX(-50%);
   color: rgb(6, 0, 0);
   font-size: 18px;
@@ -369,8 +371,10 @@ body {
   position: absolute;
   bottom: -30px;
   left: 50%;
+  font-family: Inter;
+  font-weight: Bold;
   transform: translateX(-50%);
-  color: white;
+  color: black;
   font-size: 18px;
 }
 
@@ -379,8 +383,10 @@ body {
   position: absolute;
   bottom: -30px;
   left: 50%;
+  font-family: Inter;
+  font-weight: Bold;
   transform: translateX(-50%);
-  color: white;
+  color: black;
   font-size: 18px;
 }
 
@@ -389,7 +395,9 @@ body {
   position: absolute;
   bottom: -30px;
   left: 50%;
+  font-family: Inter;
+  font-weight: Bold;
   transform: translateX(-50%);
-  color: white;
+  color: black;
   font-size: 18px;
 }
