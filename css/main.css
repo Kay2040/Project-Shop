@@ -276,14 +276,13 @@ body {
   background-size: cover;
   opacity: 1;
   position: absolute;
-  position: relative;
   top: 842px;
   left: 16px;
   border-top-left-radius: 144px;
   border-top-right-radius: 144px;
   border-bottom-left-radius: 144px;
   border-bottom-right-radius: 144px;
-  overflow: hidden;
+  overflow: visible;
 }
 .v2_10 {
   width: 313px;
