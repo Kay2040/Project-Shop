@@ -215,7 +215,7 @@ body {
   opacity: 1;
   text-align: center;
 }.v1_36:hover{
-  color: white;
+  color: rgb(109, 2, 2);
 }
 .v1_38 {
   width: 275px;
@@ -400,4 +400,9 @@ body {
   transform: translateX(-50%);
   color: black;
   font-size: 18px;
+}
+
+.v2_7 {
+  filter: none;
+  mix-blend-mode: normal;
 }
